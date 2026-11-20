@@ -1,0 +1,9 @@
+# Local / OS junk (static site — nothing to build)
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Never commit secrets. The ntfy topic is an ENV var on Cloudflare, not a file.
+.env
+.env.local

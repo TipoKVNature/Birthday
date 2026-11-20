@@ -1,0 +1,14 @@
+{
+  "id": "/",
+  "name": "Маленькое приглашение",
+  "short_name": "Приглашение",
+  "description": "Тёплое приглашение на свидание",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f15a3d",
+  "theme_color": "#f15a3d",
+  "icons": [
+    { "src": "/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
